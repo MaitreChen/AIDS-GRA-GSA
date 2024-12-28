@@ -1,1 +1,6 @@
-# AIDS-GRA-GSA
+# Graph-based Analysis of Molecular Structures in AIDS for Drug Discovery and Disease Understanding
+AIDS remains a significant global health challenge, and identifying effective compounds for treatment is a critical task in drug discovery. In this study, we propose GRANet, a novel framework that combines graph neural networks with advanced network analysis techniques to predict the anti-AIDS activity of molecular compounds. By modeling the complex interactions within molecular graphs, GRANet aims to uncover underlying patterns and relationships that are often missed by traditional methods. We integrate graph structure analysis and community detection to gain deeper insights into the biological networks related to AIDS, offering a fresh perspective on how molecules interact in the context of disease. Applying GRANet to the AIDS dataset, we demonstrate its ability to predict therapeutic efficacy and identify key structural features that correlate with anti-AIDS activity. Our results suggest that integrating network-based analysis with predictive modeling not only improves accuracy in drug discovery but also provides new avenues for understanding disease mechanisms and identifying novel therapeutic targets.
+
+----
+
+I wish you a pleasant time and good luck with your work! 🌞
